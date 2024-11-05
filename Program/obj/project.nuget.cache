@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zmG/IWGhtWA=",
+  "success": true,
+  "projectFilePath": "F:\\Programming\\oc_laba_2\\task_2\\ProcessingProcesses\\Program\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rostik\\.nuget\\packages\\system.codedom\\9.0.0-rc.2.24473.5\\system.codedom.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\rostik\\.nuget\\packages\\system.management\\9.0.0-rc.2.24473.5\\system.management.9.0.0-rc.2.24473.5.nupkg.sha512"
+  ],
+  "logs": []
+}
